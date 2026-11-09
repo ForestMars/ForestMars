@@ -48,9 +48,9 @@ Specializing in secure distributed data systems, high-throughput machine learnin
 </p>
 
 
-<p align="center">
+<!-- p align="center">
   <i>"Simplicity is prerequisite for reliability."</i>
-</p>
+</p -->
 
 <!-- DRAGONS
 - 🔭 I’m currently working on ...
