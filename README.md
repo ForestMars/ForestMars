@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Chief Technology Officer</b> &nbsp;&bull;&nbsp; 
-  <b>Systems Architect & Researcher</b> &nbsp;&bull;&nbsp; 
+  <b>Systems Architect | Frontier AI Research & Engineering </b> &nbsp;&bull;&nbsp; 
   <b>New York City</b>
 </p>
 
